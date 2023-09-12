@@ -1,8 +1,9 @@
-git init
-git status
-git log
-git clone 
-git remote -v
-git pull
-git fetch
-git push
+1.git init
+2.git status
+3.git log
+4.git clone <url>
+5.git remote -v
+6.git pull origin main
+7.git fetch 
+8.git remote add origin <url from github repo>
+9.git push origin main
