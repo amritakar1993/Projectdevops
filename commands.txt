@@ -7,3 +7,5 @@
 7.git fetch 
 8.git remote add origin <url from github repo>
 9.git push origin main
+10.git fork
+11.git merge
